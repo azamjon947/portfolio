@@ -1,0 +1,197 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    font-family: sans-serif;
+}
+.container{
+    max-width: 1200px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.nav {
+    display: flex;
+    margin-top: 50px;
+}
+ul{
+    display: flex;
+    list-style-type: none;
+}
+.home{
+    color: black;
+    font-size: 18px;
+}
+ul a{
+    margin-left: 155px;
+    text-decoration: none;
+    color:  #828282;
+    font-size: 18px;
+    font-weight: bold;
+}
+hr{
+    width: 950px;
+    margin-left: 150px;
+    margin-top: 30px;
+}
+.wrapper{
+    margin-top: 39px;
+}
+.link{
+    display: flex;
+    justify-content: space-around;
+}
+.link h1{
+    font-size: 47px;
+    margin-top: 39px;
+    margin-left: 30px;
+}
+.list{
+    font-size: 18px;
+    margin-top: 94px;
+}
+.denis{
+    margin-top: 69px;
+}
+.alt{
+    margin-top: 30px;
+    margin-left: 136px;
+}
+.age{
+    background-color: #F6F6F6;
+    height: 506px;
+}
+.about{
+    margin-top: 104px;
+}
+.about h1{
+    font-size: 34px;
+    padding-top: 100px;
+    margin-left: 500px;
+}
+.about p{
+    width: 600px;
+    font-size: 18px;
+    margin-top: 20px;
+    margin-left: 400px;
+    
+}
+.about span{
+    margin-left: -50px;
+    margin-top: 20px;
+}
+.span2{
+    padding-left: 130px;
+}
+.span3{
+    padding-left: 120px;
+}
+.car{
+    margin-left: 500px
+}
+.car h1{
+    font-size: 34px;
+    padding-top: 91px;
+}
+.denis{
+    transform: rotate(-90deg);
+}
+.car p{
+    font-size: 18px;
+    margin-top: 69px;
+    margin-left: -70px;
+}
+.img{
+    display: flex;
+    margin-top: 82px;
+}
+.img1{
+    background-color: rgb(13, 83, 83);
+    margin-left: 170px;
+}
+
+.div1 p{
+    margin-top: 27px;
+    margin-left: 190px;
+    color:  #828282;
+}
+.div1 span{
+    margin-left: -15px;
+}
+.star1{
+    margin-left: 150px;
+    margin-top: 40px;
+}
+.and{
+    display: flex;
+    margin-top: 83px;
+}
+.portfolio{
+    margin-top: 100px;
+}
+.portfolio h1{
+    margin-left: 500px;
+    font-size: 34px;
+}
+.img4{
+    margin-top: 50px;
+    margin-left: 80px;
+}
+.fashion{
+    margin-top: 100px;
+    margin-left: 200px;
+}
+.fashion h2{
+    font-size: 34px;
+    margin-left: 190px;
+    border-bottom: 2px solid #000;
+    width: 540px;
+    
+}
+.fashion img{
+    margin-top: 100px;
+}
+.div{
+    background-color: #999;
+}
+.contact{
+    margin-left: 550px;
+    margin-top: 150px;
+}
+
+.wont h2{
+    font-size: 34px;
+}
+.wont p{
+    width: 250px;
+    margin-top: 30px;
+    margin-left: -45px;
+}
+.wont span{
+    margin-left: 50px;
+    
+}
+.wont a{
+    margin-top: 200px;
+    text-decoration: none;
+    color: #fff;
+    background-color: #000;
+    padding: 9px 20px;
+    border-radius: 40px;
+}
+.icons{
+    margin-top: 50px;
+    margin-left: -160px;
+}
+.icons img{
+    margin-left: 50px;
+}
+.icons p{
+    color: #a7a4a4;
+    margin-top: 50px;
+    margin-left: 180px;
+}
+.icons span{
+    margin-left: -70px;
+}
